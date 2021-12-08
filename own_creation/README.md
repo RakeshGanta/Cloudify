@@ -1,3 +1,3 @@
-# Lokuri Website
+# Cloudify Website
 
 > Fake cloud hosting website
